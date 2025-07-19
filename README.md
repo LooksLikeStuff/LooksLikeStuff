@@ -2,7 +2,7 @@
 
 ## 🇬🇧 English
 
-I’m a Fullstack Web Developer with **3+ years** of hands-on experience building robust, scalable applications using modern **PHP (Laravel 8+)**, **JavaScript** (jQuery, Vanilla JS), and front-end technologies like **SCSS, HTML5, and TailwindCSS**.
+I’m a Fullstack Web Developer with **3+ years** of hands-on experience building robust, scalable applications using modern **PHP (Laravel 8+)**, **JavaScript** (jQuery, Vanilla JS), and front-end technologies like **SCSS, HTML5, BootstrapCSS and TailwindCSS**.
 
 ### 🔧 What I do best:
 - Back-end development with **Laravel** (REST API, Passport, Queues, Jobs, Events)  
@@ -20,7 +20,7 @@ I’m a Fullstack Web Developer with **3+ years** of hands-on experience buildin
 
 ## 🇷🇺 Русский
 
-Я — Fullstack Web-разработчик с более чем **3 годами опыта** создания надёжных и масштабируемых веб-приложений на **современном PHP (Laravel 8+)**, **JavaScript** (jQuery, Vanilla JS), а также с использованием **SCSS, HTML5 и TailwindCSS**.
+Я — Fullstack Web-разработчик с более чем **3 годами опыта** создания надёжных и масштабируемых веб-приложений на **современном PHP (Laravel 8+)**, **JavaScript** (jQuery, Vanilla JS), а также с использованием **SCSS, HTML5, BootstrapCSS и TailwindCSS**.
 
 ### 🔧 Мои сильные стороны:
 - Back-end разработка на **Laravel** (REST API, Passport, очереди, Jobs, события)  
