@@ -1,35 +1,61 @@
-# 👨‍💻 Danila Skvortsov (IAmStuff) — Fullstack Web Developer
+👨‍💻 Danila Skvortsov (IAmStuff) — Senior Fullstack Developer / Tech Lead
 
-## 🇬🇧 English
+🇬🇧 English
 
-I’m a Fullstack Web Developer with **3+ years** of hands-on experience building robust, scalable applications using modern **PHP (Laravel 8+)**, **JavaScript** (jQuery, Vanilla JS), and front-end technologies like **SCSS, HTML5, BootstrapCSS and TailwindCSS**.
+I’m a Senior Fullstack Developer / Tech Lead with 3+ years of experience building and scaling web products — from MVP to stable, production-ready systems.
 
-### 🔧 What I do best:
-- Back-end development with **Laravel** (REST API, Passport, Queues, Jobs, Events)  
-- Front-end development with **Inertia.js**, **React (TypeScript)**, and **jQuery**  
-- Fullstack architecture with **Docker (Laravel Sail)**  
-- Performance optimization (backend & frontend), SEO improvements, Lighthouse audits  
-- Working with **MySQL**, **PostgreSQL**, **Redis**, and deployment on Linux-based servers  
-- Experience with **1C-Bitrix** and large-scale corporate websites  
-- Clean, readable, and maintainable code  
+I specialize in system architecture, business process automation, and stabilization of complex/legacy systems.
 
-🌏 Currently working from **Thailand**.  
-🗣 I speak both **English** and **Russian**, and I’m open to **remote opportunities** with international teams.
+🔧 What I do:
 
----
+* Design and build scalable systems using Laravel + React (TypeScript)
+* Turn chaotic or early-stage products into structured, maintainable architectures
+* Automate business processes (reducing manual work by up to ~80%)
+* Work closely with stakeholders: gather requirements, structure logic, and deliver technical solutions
+* Optimize performance and costs (including high-load systems and AI-related processing)
+* Lead development processes: hiring, onboarding, and team coordination
 
-## 🇷🇺 Русский
+🧩 Experience highlights:
 
-Я — Fullstack Web-разработчик с более чем **3 годами опыта** создания надёжных и масштабируемых веб-приложений на **современном PHP (Laravel 8+)**, **JavaScript** (jQuery, Vanilla JS), а также с использованием **SCSS, HTML5, BootstrapCSS и TailwindCSS**.
+* Tech/Team Lead in product company (~50 employees)
+* Built and scaled systems with ~4000 DAU
+* Reduced critical bugs by ~95% through refactoring and stabilization
+* Improved infrastructure and development workflows (CI/CD, architecture)
 
-### 🔧 Мои сильные стороны:
-- Back-end разработка на **Laravel** (REST API, Passport, очереди, Jobs, события)  
-- Front-end разработка с использованием **Inertia.js**, **React (TypeScript)** и **jQuery**  
-- Архитектура fullstack-приложений с помощью **Docker (Laravel Sail)**  
-- Оптимизация производительности (backend & frontend), улучшение SEO, Lighthouse-аудит  
-- Работа с базами данных: **MySQL**, **PostgreSQL**, **Redis**, деплой на серверах под Linux  
-- Опыт с **1С-Битрикс** и крупными корпоративными сайтами  
-- Чистый, читаемый и поддерживаемый код  
+🛠 Tech stack:
 
-🌏 В данный момент работаю из **Таиланда**.  
-🗣 Говорю на **русском** и **английском**, открыт к **удалённой работе** в международных командах.
+Laravel, React, TypeScript, Docker, MySQL, PostgreSQL, Redis
+
+🌏 Based in Thailand
+🌍 Open to remote opportunities
+
+⸻
+
+🇷🇺 Русский
+
+Я — Senior Fullstack разработчик / Tech Lead с более чем 3 годами опыта разработки и масштабирования веб-продуктов — от MVP до стабильных production-систем.
+
+Специализируюсь на архитектуре, автоматизации бизнес-процессов и стабилизации сложных/legacy систем.
+
+🔧 Что я делаю:
+
+* Проектирую и разрабатываю масштабируемые системы на Laravel + React (TypeScript)
+* Превращаю хаотичные или растущие продукты в устойчивые и поддерживаемые системы
+* Автоматизирую бизнес-процессы (снижение ручной работы до ~80%)
+* Работаю с требованиями: общаюсь с заказчиками, структурирую бизнес-логику и перевожу её в технические решения
+* Оптимизирую производительность и затраты (в том числе highload и AI-процессы)
+* Настраиваю процессы разработки: найм, онбординг, организация команды
+
+🧩 Ключевой опыт:
+
+* Tech/Team Lead в продуктовой компании (~50 человек)
+* Разработка и масштабирование системы с ~4000 DAU
+* Снижение количества критических багов на ~95% через рефакторинг
+* Улучшение инфраструктуры и процессов разработки (CI/CD, архитектура)
+
+🛠 Стек:
+
+Laravel, React, TypeScript, Docker, MySQL, PostgreSQL, Redis
+
+🌏 Живу в Таиланде
+🌍 Открыт к удалённой работе
