@@ -2,7 +2,7 @@
 
 🇬🇧 English
 
-I’m a Senior Fullstack Developer / Tech Lead with 3+ years of experience building and scaling web products — from MVP to stable, production-ready systems.
+I’m a Senior Fullstack Developer / Tech Lead with 4+ years of experience building and scaling web products — from MVP to stable, production-ready systems.
 
 I specialize in system architecture, business process automation, and stabilization of complex/legacy systems.
 
