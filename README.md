@@ -17,7 +17,7 @@ I specialize in system architecture, business process automation, and stabilizat
 
 🧩 Experience highlights:
 
-* Tech/Team Lead in product company (~50 employees)
+* Tech/Team Lead in product company (5 developers)
 * Built and scaled systems with ~4000 DAU
 * Reduced critical bugs by ~95% through refactoring and stabilization
 * Improved infrastructure and development workflows (CI/CD, architecture)
@@ -48,7 +48,7 @@ Laravel, React, TypeScript, Docker, MySQL, PostgreSQL, Redis
 
 🧩 Ключевой опыт:
 
-* Tech/Team Lead в продуктовой компании (~50 человек)
+* Tech/Team Lead в продуктовой компании (5 разработчиков)
 * Разработка и масштабирование системы с ~4000 DAU
 * Снижение количества критических багов на ~95% через рефакторинг
 * Улучшение инфраструктуры и процессов разработки (CI/CD, архитектура)
